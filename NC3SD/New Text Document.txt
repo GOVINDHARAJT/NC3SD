@@ -1,0 +1,154 @@
+<div id ="committee" class="text-center">
+    <div class="section-title text-center">     
+</div>
+  <div class="col-md-10 col-md-offset-1 contact-info">
+		<br><br>
+		 <h2>Organising Committee</h2>
+		
+      <div class="col-md-4">
+       
+        <h3 style="color: #b53536;"><b>Chief Patron</b></h3>
+		  
+        <div class="contact-item">
+         
+			<h3><b>Shri. L. Gopalakrishnan</b>
+</h3>
+          <p> Managing Trustee<br> PSG Institutions</p>
+        </div>
+      </div>
+	  
+      <div class="col-md-4">
+        <h3 style="color: #b53536;"><strong>Patron</strong></h3>
+        <h3>	<b>Dr. P. V. Mohanram	</b>
+</h3>
+        
+        <div class="contact-item">
+          <p>Principal<br> PSG iTech		
+         </p>
+        </div>
+    </div>
+      <div class="col-md-4">
+        <h3 style="color: #b53536;"><strong>Patron</strong></h3>
+        <h3><b>Dr. G. Chandramohan</b>
+</h3>
+       
+        <div class="contact-item">
+          <p>Vice-Principal<br> PSG iTech</p>
+        
+        </div>
+    </div>
+  </div>
+  
+
+		  
+		  <div class="text-center">
+    <div class="section-title text-center">
+     
+      
+</div>
+    <div class="col-md-10 col-md-offset-1 contact-info">
+		 <h3 style="color: #b53536;"><b>Conveners</b> </h3>
+      <div class="col-md-4">
+       
+        
+        <div class="contact-item">
+          <h3><b>Dr. P. Subbaraj</b>		
+</h3>
+          <p>Dean, Research - Electrical Sciences, PSG iTech</p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <h3><b>Dr. C. L. Vasu</b></h3>
+        
+        <div class="contact-item">
+          <p>Professor and Head, Dept. of EEE<br> PSG iTech</p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <h3> <b>Dr. T. Hamsapriya</b>
+</h3>
+       
+        <div class="contact-item">
+          <p>Professor and Head,<br>Dept. of CSE & ECE, PSG iTech</p>
+        
+        </div>
+      </div>
+    </div>
+  
+  </div>   
+		  <div class="text-center">
+      <div class="section-title text-center">
+		  <br>
+      
+      
+</div>
+    <div class="col-md-10 col-md-offset-1 contact-info">
+		<h3 style="color: #b53536;"><b>Co-Conveners</b></h3> 
+      <div class="col-md-4">
+      
+        
+        <div class="contact-item">
+          <h3><b>Dr. E. Malar</b>			
+</h3>
+          <p>Professor, Dept. of EEE<br>PSG iTech</p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <h3><b>Dr. P. Vetrivelan</b>			
+</h3>
+        
+        <div class="contact-item">
+          <p>Associate Professor, Dept. of ECE<br>PSG iTech
+         </p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <h3><b> Dr. P. Ilango</b>
+</h3>
+       
+        <div class="contact-item">
+          <p>Professor, Dept. of CSE<br>PSG iTech</p>
+        
+        </div>
+      </div>
+    </div>
+  
+  </div>
+	
+		  
+		  
+		  	  <div class="text-center">
+      <div class="section-title text-center">
+		  <br>   
+</div>
+    <div class="col-md-10 col-md-offset-1 contact-info">
+		<h3 style="color: #b53536;s"><b>Organizing Secretaries </b></h3> 
+      <div class="col-md-4">
+      
+        
+        <div class="contact-item">
+          <h3><b>Dr. C. S. Subash Kumar</b>				
+</h3>
+          <p>Associate Professor,<br>Dept. of EEE, PSG iTech<br>+91 93601 11115</p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <h3><b>Ms. M. Deepa</b>				
+</h3>
+        
+        <div class="contact-item">
+          <p>Assistant Professor (Sr.Gr),<br> Dept. of ECE, PSG iTech<br>+91 88700 02616
+         </p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <h3><b>Mr. C. P. Shabariram</b>
+</h3>
+       
+        <div class="contact-item">
+          <p>Assistant Professor,<br>Dept. of CSE, PSG iTech<br>+91 95979 14237</p>
+        </div>
+      </div>
+    </div>
+</div>  
+  </div>
